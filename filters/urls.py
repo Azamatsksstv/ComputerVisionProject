@@ -1,5 +1,6 @@
 from django.urls import path
-from .views import ImageUploadView, ImageToBlackAndWhite, BlurFilter, ImageSketchFilter, EmbossFilter, SharpenFilter, SepiaFilter
+from .views import (ImageUploadView, ImageToBlackAndWhite, BlurFilter,
+                    ImageSketchFilter, EmbossFilter, SharpenFilter, SepiaFilter)
 
 urlpatterns = [
     path('image-upload/', ImageUploadView.as_view(), name='image-upload'),

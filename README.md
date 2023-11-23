@@ -1,8 +1,11 @@
 # ComputerVisionProject
 
 
-You can try to filter images here:
+You can try to filter images here(hosting):
 https://cvabdrateam-40mykihby-azambylbaev-gmailcom.vercel.app
+*
+Frontend code
+https://github.com/Azamatsksstv/ComputerVisionProjectFrontend
 *
 
 ![image](https://github.com/Azamatsksstv/ComputerVisionProject/assets/90980633/3450d590-f2cc-4a72-b249-c3f8c9509285)
